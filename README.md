@@ -1,4 +1,4 @@
-#Simple Interpreter
-##Supports:
+# Simple Interpreter
+## Supports:
 -Math expressions
 -Variables
